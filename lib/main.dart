@@ -5,7 +5,7 @@ void main() => runApp(MiagendaApp());
 class MiagendaApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(debugShowCheckedModeBanner: false, title: "galeria fotografica", home: new PaginaPrincipal(title: "Gridview Galeria de imagenes")); //fin de materialapp return
+    return new MaterialApp(debugShowCheckedModeBanner: false, title: "galeria fotografica", home: new PaginaPrincipal(title: "Galeria de imagenes de benitez")); //fin de materialapp return
   } //fin widget miagendaapp
 } //fin clase miagendaapp
 
